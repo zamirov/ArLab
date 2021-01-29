@@ -65,7 +65,7 @@
         {
             "byteLength": 2685744,
             "name": "ArcsoftBuffer",
-            "uri": "https://zamirov.github.io/ArLab/1611567991476.bin"
+            "uri": "1611567991476.bin"
         }
     ],
     "extensionsUsed": [
@@ -78,7 +78,7 @@
     "images": [
         {
             "name": "",
-            "uri": "https://zamirov.github.io/ArLab/1611567991476.png"
+            "uri": "1611567991476.png"
         }
     ],
     "materials": [
